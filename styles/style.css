@@ -265,7 +265,7 @@ body {
 }
 
 .attention::before {
-  background-image: url(../images/antenna-bg.png);
+  background-image: url(../images/symbol-defs.svg#icon-icon-antenna);
 }
 
 .punctuality::before {
@@ -392,6 +392,13 @@ body {
 .social-link:hover,
 .social-link:focus {
   background-color: var(--accent-color);
+}
+/*************************************************************Our partners*******************************************************************/
+.partners-main {
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 3%;
 }
 /*************************************************************Footer**************************************************************************/
 .container-ft {
