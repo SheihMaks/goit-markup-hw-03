@@ -394,11 +394,39 @@ body {
   background-color: var(--accent-color);
 }
 /*************************************************************Our partners*******************************************************************/
+.all-partners {
+  padding-bottom: 104px;
+}
 .partners-main {
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
   letter-spacing: 3%;
+  margin-bottom: 50px;
+}
+
+.partners-list {
+  display: flex;
+  margin-left: -30px;
+}
+.partner-icon {
+  width: 170px;
+  height: 92px;
+  flex-basis: calc(100% / 6 - 30px);
+  margin-left: 30px;
+  border: 1px solid #afb1b8;
+  border-radius: 4px;
+}
+.partner-link {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.partner {
+  width: 106px;
+  height: 60px;
 }
 /*************************************************************Footer**************************************************************************/
 .container-ft {
