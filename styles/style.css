@@ -265,11 +265,11 @@ body {
 }
 
 .attention::before {
-  background-image: url("../images/icons.svg#icon-icon-antenna");
+  background-image: url(./images/icons.svg#icon-icon-antenna);
 }
 
 .punctuality::before {
-  background-image: url("../images/icons.svg#icon-icon-clock");
+  background-image: url(../images/icons.svg#icon-icon-clock);
 }
 
 .planning::before {
