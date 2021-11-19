@@ -265,19 +265,19 @@ body {
 }
 
 .attention::before {
-  background-image: url(../images/icons.svg#icon-icon-antenna);
+  background-image: url("../images/icons.svg#icon-icon-antenna");
 }
 
 .punctuality::before {
-  background-image: url(../images/icons.svg#icon-icon-clock);
+  background-image: url("../images/icons.svg#icon-icon-clock");
 }
 
 .planning::before {
-  background-image: url(../images/icons.svg#icon-icon-diagram);
+  background-image: url("../images/icons.svg#icon-icon-diagram");
 }
 
 .hitech::before {
-  background-image: url(../images/icons.svg#icon-icon-astronaut);
+  background-image: url("../images/icons.svg#icon-icon-astronaut");
 }
 
 .skills-main {
