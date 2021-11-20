@@ -163,10 +163,18 @@ body {
   fill: #757575;
 }
 
+.mail-icon:hover,
+.mai-icon:focus,
+.telephone-icon:hover,
+.telephone-icon:focus {
+  fill: var(--accent-color);
+}
+
 .mail:hover,
-.mail:focus {
+.mai:focus {
   text-decoration: underline;
   color: var(--accent-color);
+  fill: var(--accent-color);
 }
 
 .telephone {
@@ -181,6 +189,7 @@ body {
 .telephone-icon {
   display: inline-block;
   margin-right: 10px;
+  fill: #757575;
 }
 .telephone:hover,
 .telephone:focus {
