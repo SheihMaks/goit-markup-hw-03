@@ -145,10 +145,12 @@ body {
 
 .list-contacts {
   display: flex;
+  align-items: center;
 }
 
 .mail {
   display: inline-block;
+
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -170,7 +172,7 @@ body {
 
 .telephone {
   display: inline-block;
-  text-align: center;
+  align-items: center;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
