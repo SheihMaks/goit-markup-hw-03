@@ -157,11 +157,11 @@ body {
   margin-right: 50px;
   padding: 32px 0;
 }
-.mail-icon{
+.mail-icon {
   display: inline-block;
   margin-right: 10px;
 }
-}
+
 .mail:hover,
 .mail:focus {
   text-decoration: underline;
