@@ -273,7 +273,7 @@ body {
 }
 
 .attention::before {
-  background-image: url(./images/icons.svg#icon-icon-antenna);
+  background-image: url(icons.svg#icon-icon-antenna);
 }
 
 .punctuality::before {
