@@ -163,13 +163,6 @@ body {
   fill: currentcolor;
 }
 
-/*.mail-icon:hover,
-.mail-icon:focus,
-.telephone-icon:hover,
-.telephone-icon:focus {
-  fill: var(--accent-color);
-}*/
-
 .mail:hover,
 .mail:focus {
   color: var(--accent-color);
