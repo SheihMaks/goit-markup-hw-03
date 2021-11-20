@@ -172,7 +172,6 @@ body {
 
 .mail:hover,
 .mai:focus {
-  text-decoration: underline;
   color: var(--accent-color);
   fill: var(--accent-color);
 }
@@ -195,6 +194,7 @@ body {
 .telephone:focus {
   text-decoration: underline;
   color: var(--accent-color);
+  fill: var(--accent-color);
 }
 
 /****************************************************************main*************************************************************************/
