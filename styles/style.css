@@ -178,6 +178,7 @@ body {
   color: var(--main-text-color);
 }
 .telephone-icon {
+  display: inline-block;
   margin-right: 10px;
 }
 .telephone:hover,
