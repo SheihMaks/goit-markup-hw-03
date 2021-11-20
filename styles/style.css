@@ -273,19 +273,19 @@ body {
 }
 
 .attention::before {
-  background-image: url(icons.svg#icon-icon-antenna);
+  background-image: url(../images/antenna.svg);
 }
 
 .punctuality::before {
-  background-image: url(../images/icons.svg#icon-icon-clock);
+  background-image: url(../images/clock.svg);
 }
 
 .planning::before {
-  background-image: url("../images/icons.svg#icon-icon-diagram");
+  background-image: url(../images/diagram.svg);
 }
 
 .hitech::before {
-  background-image: url("../images/icons.svg#icon-icon-astronaut");
+  background-image: url(../images/astronaut.svg);
 }
 
 .skills-main {
