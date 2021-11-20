@@ -397,12 +397,19 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--background-color);
+  fill: var(--main-text-color);
+}
+
+.icon {
+  fill: currentColor;
 }
 
 .social-link:hover,
 .social-link:focus {
   background-color: var(--accent-color);
+  fill: var(--main-title-color);
 }
+
 /*************************************************************Our partners*******************************************************************/
 .all-partners {
   padding-bottom: 104px;
