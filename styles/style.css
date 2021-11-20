@@ -192,7 +192,6 @@ body {
 }
 .telephone:hover,
 .telephone:focus {
-  text-decoration: underline;
   color: var(--accent-color);
   fill: var(--accent-color);
 }
