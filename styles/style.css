@@ -157,14 +157,9 @@ body {
   margin-right: 50px;
   padding: 32px 0;
 }
-.mail::before {
-  content: "";
-  display: block;
-  align-items: center;
-  background-repeat: no-repeat;
-  background-size: 16px;
-  background-position: left;
-  background-image: url(../images/icons.svg#icon-icon-mail);
+.mail-icon{
+  margin-right: 10px;
+}
 }
 .mail:hover,
 .mail:focus {
