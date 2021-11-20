@@ -160,7 +160,7 @@ body {
 .mail-icon {
   display: inline-block;
   margin-right: 10px;
-  fill: #757575;
+  fill: currentcolor;
 }
 
 /*.mail-icon:hover,
@@ -173,7 +173,6 @@ body {
 .mail:hover,
 .mail:focus {
   color: var(--accent-color);
-  fill: var(--accent-color);
 }
 
 .telephone {
