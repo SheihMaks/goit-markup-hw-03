@@ -177,7 +177,9 @@ body {
   padding: 32px 0;
   color: var(--main-text-color);
 }
-
+.telephone-icon {
+  margin-right: 10px;
+}
 .telephone:hover,
 .telephone:focus {
   text-decoration: underline;
