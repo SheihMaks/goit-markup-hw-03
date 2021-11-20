@@ -163,17 +163,18 @@ body {
   fill: #757575;
 }
 
-.mail-icon:hover,
+/*.mail-icon:hover,
 .mail-icon:focus,
 .telephone-icon:hover,
 .telephone-icon:focus {
   fill: var(--accent-color);
-}
+}*/
 
 .mail:hover,
 .mai:focus {
   text-decoration: underline;
   color: var(--accent-color);
+  fill: var(--accent-color);
 }
 
 .telephone {
