@@ -160,6 +160,7 @@ body {
 .mail-icon {
   display: inline-block;
   margin-right: 10px;
+  fill: #757575;
 }
 
 .mail:hover,
