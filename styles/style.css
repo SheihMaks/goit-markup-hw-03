@@ -579,16 +579,6 @@ body {
   cursor: pointer;
 }
 
-.filter-btn-rm {
-  font-family: Roboto;
-  padding: 0 22px;
-  height: 38px;
-  background: #f5f4fa;
-  border-radius: 4px;
-  border: none;
-  cursor: pointer;
-}
-
 .filter-btn:focus,
 .filter-btn:hover {
   color: #ffffff;
