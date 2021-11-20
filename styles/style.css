@@ -189,12 +189,11 @@ body {
 .telephone-icon {
   display: inline-block;
   margin-right: 10px;
-  fill: #757575;
+  fill: currentColor;
 }
 .telephone:hover,
 .telephone:focus {
   color: var(--accent-color);
-  fill: var(--accent-color);
 }
 
 /****************************************************************main*************************************************************************/
