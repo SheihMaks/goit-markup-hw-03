@@ -189,7 +189,7 @@ body {
 .telephone-icon {
   display: inline-block;
   margin-right: 10px;
-  fill: currentColor;
+  fill: currentcolor;
 }
 .telephone:hover,
 .telephone:focus {
