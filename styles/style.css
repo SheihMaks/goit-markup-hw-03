@@ -149,8 +149,8 @@ body {
 }
 
 .mail {
-  display: inline-block;
-
+  display: inline-flex;
+  align-items: center;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -171,7 +171,7 @@ body {
 }
 
 .telephone {
-  display: inline-block;
+  display: inline-flex;
   align-items: center;
   font-weight: 500;
   font-size: 14px;
