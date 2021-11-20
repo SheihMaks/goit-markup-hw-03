@@ -397,7 +397,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--background-color);
-  fill: var(--main-text-color);
+  color: var(--main-text-color);
 }
 
 .icon {
