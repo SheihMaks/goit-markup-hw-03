@@ -44,7 +44,7 @@ footer {
 }
 
 *:focus {
-  outline: 1px dotted #000;
+  outline: none;
 }
 
 body {
@@ -117,6 +117,14 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
 }
+.navigation .active .link::after {
+  opacity: 1;
+}
+
+.navigation .active .link {
+  text-decoration: none;
+  color: var(--accent-color);
+}
 
 .header-item:not(:last-child) {
   margin-right: 50px;
@@ -153,11 +161,7 @@ body {
   border-radius: 2px;
   opacity: 0;
 }
-.studio:hover::after,
-.portfolio:hover::after,
-.contacts:hover::after {
-  opacity: 1;
-}
+
 .studio:hover,
 .studio:focus,
 .portfolio:hover,
